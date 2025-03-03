@@ -2,7 +2,7 @@
 message = """
 Sehr geehrte Damen und Herren,
 
-ich heiße Mario Sipicki und hiermit möchte ich mich gerne um eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung bewerben.
+ich heiße Mario Sipicki und hiermit möchte ich mich gerne um eine Ausbildung zum Elektroniker und / oder Fachinformatiker bewerben.
 Meine Projekte, die ich während der Quarantäne 2020 in Python (PyCharm) erstellt / programmiert habe, finden Sie hier auf GitHub.
 
 Ich habe auch alle Projekte mit Windows Powershell mit den folgenden Schritten auf Github hochgeladen:
